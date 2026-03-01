@@ -42,7 +42,7 @@ CourseMatch aggregates online courses from multiple platforms (Udemy, Coursera, 
 ### Installation
 
 ```bash
-git clone https://github.com/Tsiak1/course-recommendation-app.git
+git clone https://github.com/Dtsiakas/course-recommendation-app.git
 cd course-recommendation-app
 
 npm install
